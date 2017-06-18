@@ -11,6 +11,7 @@ Desktop.ini
 
 # 사용자 정의
 node-modules/
+ETC/
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
